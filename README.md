@@ -17,4 +17,4 @@ Open the assignment.html file in your browser
 Add CSS for modern design and responsiveness
 Use JavaScript for interactivity (sliders, forms, etc.)
 Expand with more travel destinations and cultural highlights
-*Made by Siya Garg*
+*This is my first Git repository-->Made by Siya Garg*
